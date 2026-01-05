@@ -1,4 +1,6 @@
-package com.githubactions;
+package com.githubactions.main;
+
+import com.githubactions.Calculator;
 
 /**
  * Hello world!
